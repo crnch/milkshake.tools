@@ -160,7 +160,7 @@ class App extends Component {
                     </form>
                 </div>
                 <div className="flex w-80 m-auto my-5">
-                    <a className="m-auto self-center text-4xl text-slate-700" href='https://github.com'>
+                    <a className="m-auto self-center text-4xl text-slate-700" href='https://github.com/crnch/milkshake.tools'>
                         <FontAwesomeIcon icon="fa-brands fa-github-alt" /></a>
                 </div>
             </div>

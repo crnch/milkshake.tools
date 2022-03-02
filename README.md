@@ -11,7 +11,7 @@ It's comparable to the [Caesars Cipher](https://en.wikipedia.org/wiki/Caesar_cip
 ## Can I input my mnemonic phrase on the website
 
 Well you certainly _can_ but you probably **shouldn't** put in seed phrases holding real funds.
-While the homepage itself has no backend and all computations are done on the computer it's being accessed with, it's generally very very bad practice to input your seed phrases anywhere except when using them for regaining access.
+While the homepage itself has no backend and all computations are done on the computer it's being accessed with (client-side), it's generally very very bad practice to input your seed phrases anywhere except when using them for regaining access.
 Remember: your browser with all it's extensions constantly running code from untrusted sources is _not_ a save place.
 Further down you will find instructions on how to run this code locally.
 Not communicating with the outside world on fresh device while putting in your seed phrase is less insecure.
